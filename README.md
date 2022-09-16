@@ -4,3 +4,4 @@
 |------|----------------|----------|-----------
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [python](https://github.com/shivam1646/leetcode/blob/main/solutions/defuse-the-bomb/defuse-the-bomb.py) | Easy
 | 1584 | [Min cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [python](https://github.com/shivam1646/leetcode/blob/main/solutions/min-cost-to-connect-all-points/min-cost-to-connect-all-points.py) | Medium
+| 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) |[python](https://github.com/shivam1646/leetcode/blob/main/solutions/pseudo-palindromic-paths-in-a-binary-tree/pseudo-palindromic-paths-in-a-binary-tree.py) | Medium
