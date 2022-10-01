@@ -8,6 +8,7 @@ Solutions with comments to daily leetcode problem in Python 3.
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [python](https://github.com/shivam1646/leetcode/blob/main/solutions/find-original-array-from-doubled-array/find-original-array-from-doubled-array.py) | Medium | 15 September 2022
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [python](https://github.com/shivam1646/leetcode/blob/main/solutions/design-circular-queue/design-circular-queue.py) | Medium | 25 Spetember 2022
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [python](https://github.com/shivam1646/leetcode/blob/main/solutions/satisfiability-of-equality-equations/satisfiability-of-equality-equations.py) | Medium | 26 September 2022
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [python](https://github.com/shivam1646/leetcode/blob/main/solutions/decode-ways/decode-ways.py) | Medium | 1 October 2022
 
 # Other problems
 
